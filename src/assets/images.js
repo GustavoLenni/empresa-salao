@@ -1,5 +1,7 @@
+import Logo from './img/Logo.png';
 
-
-export default function Images(){
-// importar images
+const Images={
+    Logo
 }
+
+export default Images;
