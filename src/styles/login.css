@@ -1,31 +1,3 @@
-/* ========== VARIÁVEIS ========== */
-:root {
-  /* Cores minimalistas */
-  --primary: #d946ef;
-  --primary-dark: #a21caf;
-  --background: #fafafa;
-  --surface: #ffffff;
-  --text: #1f2937;
-  --text-light: #6b7280;
-  --border: #e5e7eb;
-  --error: #ef4444;
-  --shadow: rgba(0, 0, 0, 0.05);
-}
-
-/* Reset básico */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
-  background: var(--background);
-  color: var(--text);
-  -webkit-font-smoothing: antialiased;
-}
-
 /* ========== CONTAINER PRINCIPAL ========== */
 .login-container {
   min-height: 100vh;
